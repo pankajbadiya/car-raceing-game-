@@ -1,0 +1,8 @@
+{
+  "name": "Neon Street Racing",
+  "description": "High-octane 3D arcade racing game with nitro boosts, dynamic AI opponents, multiple environments, and procedural tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
